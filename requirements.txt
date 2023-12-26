@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+xlrd
+jupyter
+seaborn
+imbalanced-learn
+scikit-learn
+xgboost
+mlxtend
