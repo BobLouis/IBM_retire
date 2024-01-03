@@ -1,0 +1,7 @@
+ID,Logistic_Regession,Decision_tree,Random_forest,XGBoost,test_ratio
+1,0.896761,0.821862,0.92914979,0.9251012,0.2
+2,0.904054054054054,0.809459,0.9270270,0.92702702,0.3
+3,
+4,
+5,
+6,
