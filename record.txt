@@ -1,0 +1,462 @@
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.9251012145748988
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.9089068825910931
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.9129554655870445
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.9210526315789473
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.917004048582996
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.902834008097166
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.9089068825910931
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9251012145748988
+MLP Accuracy: 0.9109311740890689
+average
+logistic_accuracy_avg: 0.8967611336032386
+decision_tree_accuracy_avg: 0.8218623481781375
+random_forest_accuracy_avg: 0.9291497975708503
+xgboost_accuracy_avg: 0.9251012145748987
+MLP_accuracy_avg: 0.9129554655870444
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.917004048582996
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.902834008097166
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9129554655870445
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9149797570850202
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9048582995951417
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9048582995951417
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9230769230769231
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9291497975708503
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9190283400809717
+average
+logistic_accuracy_avg: 0.8967611336032386
+decision_tree_accuracy_avg: 0.8218623481781375
+random_forest_accuracy_avg: 0.9291497975708503
+xgboost_accuracy_avg: 0.9271255060728745
+MLP_accuracy_avg: 0.9121457489878543
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9149797570850202
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9271255060728745
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9129554655870445
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9129554655870445
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9129554655870445
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9068825910931174
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9089068825910931
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.917004048582996
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9271255060728745
+MLP Accuracy: 0.9129554655870445
+average
+logistic_accuracy_avg: 0.8967611336032386
+decision_tree_accuracy_avg: 0.8218623481781375
+random_forest_accuracy_avg: 0.9230769230769231
+xgboost_accuracy_avg: 0.9271255060728745
+MLP_accuracy_avg: 0.9137651821862347
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.917004048582996
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.917004048582996
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.9068825910931174
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.902834008097166
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.9089068825910931
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.9068825910931174
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.9210526315789473
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9291497975708503
+MLP Accuracy: 0.9109311740890689
+average
+logistic_accuracy_avg: 0.8967611336032386
+decision_tree_accuracy_avg: 0.8218623481781375
+random_forest_accuracy_avg: 0.9230769230769231
+xgboost_accuracy_avg: 0.9291497975708503
+MLP_accuracy_avg: 0.911336032388664
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.917004048582996
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9048582995951417
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9149797570850202
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9068825910931174
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9149797570850202
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9068825910931174
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.8967611336032388
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9109311740890689
+average
+logistic_accuracy_avg: 0.8967611336032386
+decision_tree_accuracy_avg: 0.8218623481781375
+random_forest_accuracy_avg: 0.9230769230769231
+xgboost_accuracy_avg: 0.9331983805668018
+MLP_accuracy_avg: 0.9095141700404857
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.9129554655870445
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.9109311740890689
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.9048582995951417
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.9129554655870445
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.9089068825910931
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.9149797570850202
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.9190283400809717
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.9129554655870445
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9190283400809717
+MLP Accuracy: 0.917004048582996
+average
+logistic_accuracy_avg: 0.8967611336032386
+decision_tree_accuracy_avg: 0.8218623481781375
+random_forest_accuracy_avg: 0.9230769230769231
+xgboost_accuracy_avg: 0.9190283400809717
+MLP_accuracy_avg: 0.9125506072874494
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9190283400809717
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9210526315789473
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9048582995951417
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9068825910931174
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9089068825910931
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9048582995951417
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9089068825910931
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.902834008097166
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9190283400809717
+test_ratio: 0.2
+Logistic Regression Accuracy: 0.8967611336032388
+Decision Tree Accuracy: 0.8218623481781376
+Random Forest Accuracy: 0.9230769230769231
+XGBoost Accuracy: 0.9331983805668016
+MLP Accuracy: 0.9149797570850202
+average
+logistic_accuracy_avg: 0.8967611336032386
+decision_tree_accuracy_avg: 0.8218623481781375
+random_forest_accuracy_avg: 0.9230769230769231
+xgboost_accuracy_avg: 0.9331983805668018
+MLP_accuracy_avg: 0.9111336032388664
