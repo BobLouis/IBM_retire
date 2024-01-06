@@ -345,8 +345,8 @@ for i in range(10):
     xgb = XGBClassifier(objective='binary:logistic')
     # parm_xgb = {'max_depth': [15, 18, 22, 25], 'n_estimators': [
     #     250, 300, 400], 'learning_rate': [0.01, 0.05, 0.1]}
-    parm_xgb = {'max_depth': [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 22, 25], 'n_estimators': [
-        250, 260, 270, 280, 290, 300, 305, 310, 315, 320], 'learning_rate': [0.05, 0.07, 0.09, 0.1, 0.11, 0.13, 0.15, 0.17, 0.19, 0.2]}
+    parm_xgb = {'max_depth': [5, 6, 7, 8, 9, 10, 11, 12], 'n_estimators': [
+        280, 290, 300, 305, 310, 315, 320], 'learning_rate': [0.05, 0.07, 0.09, 0.1, 0.11, 0.13, 0.15]}
     grid_xgb = GridSearchCV(estimator=xgb, param_grid=parm_xgb,
                             scoring='accuracy', cv=5, n_jobs=-1, verbose=1)
     grid_result = grid_xgb.fit(X_train, y_train)

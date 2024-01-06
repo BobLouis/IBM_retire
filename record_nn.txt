@@ -1,0 +1,4 @@
+average
+MLP_accuracy_avg: 0.917004048582996
+average
+MLP_accuracy_avg: 0.9149797570850202
